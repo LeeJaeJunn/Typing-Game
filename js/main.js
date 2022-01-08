@@ -1,3 +1,5 @@
+//깃 확인 테스트
+
 const gameTime = 8;
 
 let score = 0;
